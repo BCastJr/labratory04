@@ -2,7 +2,7 @@
 
 use CodeIgniter\Model;
 
-class Classes extends Model
+class classes extends Model
 {
 	protected $table      = [
 'COMP0001' => ['id'=>1337, 'name' => 'Database', 'level'=> 2],

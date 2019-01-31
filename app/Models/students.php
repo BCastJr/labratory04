@@ -2,7 +2,7 @@
 
 use CodeIgniter\Model;
 
-class Students extends Model
+class students extends Model
 {
 	protected $data      = [
 'Cassidy' => ['id'=>'a00986001', 'fullname' => 'Cassidy Banks', 'year'=> 2],
